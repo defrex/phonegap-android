@@ -7,7 +7,9 @@
  */
 
 // TODO: Needs to be commented
-
+/**
+* @constructor
+*/
 var Crypto = function() {
 };
 

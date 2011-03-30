@@ -22,6 +22,7 @@ function Geolocation() {
 /**
  * Position error object
  *
+ * @constructor
  * @param code
  * @param message
  */

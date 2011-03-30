@@ -8,6 +8,7 @@
 
 /**
  * This class provides access to notifications on the device.
+ * @constructor
  */
 function Notification() {
 }

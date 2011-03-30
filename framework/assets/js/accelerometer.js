@@ -6,6 +6,7 @@
  * Copyright (c) 2010, IBM Corporation
  */
 
+/** @constructor */
 function Acceleration(x, y, z) {
   this.x = x;
   this.y = y;
